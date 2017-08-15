@@ -10,7 +10,7 @@ let totalSecond = hour + min + second
 
 
 //set up the day to calulate the days and time and second.
-const day = moment("2017-08-14 h:mm:ss a");
+// const day = moment("2017-08-14 h:mm:ss a");
 
 console.log("We are week " + chalk.italic.magentaBright(moment().week()) + " of the year!")
 
